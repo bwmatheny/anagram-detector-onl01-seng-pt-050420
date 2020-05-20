@@ -1,5 +1,5 @@
 class Anagram
-attr_accessor :word1 :list 
+attr_accessor :word1 :list
 
   def initialize(word)
     @word1 = []
